@@ -1,0 +1,3 @@
+# Prophet .pkl model files are stored here after training.
+# Run: cd backend && python ../ml/train_all.py
+# Files are gitignored — regenerate on each new deployment.
